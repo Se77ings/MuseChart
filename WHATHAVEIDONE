@@ -1,0 +1,14 @@
+$ npx expo install @shopify/react-native-skia
+
+$ npm install @react-navigation/native
+
+$ npx expo install react-native-screens react-native-safe-area-context
+
+$ npm install @react-navigation/native-stack
+
+Fiz o comecinho do react navigation, apenas pra poder trocar de telas.
+
+Pelo visto, pra não ter problema com o react-native-gesture-handler, é so instalar ele via expo:
+$ npx expo install react-native-gesture-handler
+$ npx expo install victory-native
+$ npx expo install react-native-reanimated
